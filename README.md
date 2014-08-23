@@ -1,0 +1,1 @@
+A Java client for mysociety's TheyWorkForYou API (http://www.theyworkforyou.com/api).
